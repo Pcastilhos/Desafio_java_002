@@ -1,6 +1,6 @@
 # Desafio_java_002
 FONTE: https://br.spoj.com/problems/PALIMG14/
-/n
+
 Palíndromos
 
 Um palíndromo é uma palavra que é lida da mesma maneira tanto da esquerda para a direita quanto da direita para a esquerda. Alguns exemplos de palíndromos são: arara, rodador e Mussum.
